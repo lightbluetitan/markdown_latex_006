@@ -220,5 +220,16 @@ $$
 
 Compartimos la web site de [Mathpix](https://mathpix.com/snipping-tool "Descarga Mathpix"){target="_blank"} para la descarga del software.
 
+
+## Contacto
+
+De tener alguna duda o pregunta puedes contactarme:
+
+**Email:**&#160;<a href="mailto:arenzocaceresrossi@gmail.com" title="Email Renzo">arenzocaceresrossi@gmail.com</a>
+
+---
+&copy; Renzo Cáceres Rossi
+
+
 ::: {.tocify-extend-page data-unique="tocify-extend-page" style="height: 0;"}
 :::
